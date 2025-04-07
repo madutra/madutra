@@ -21,9 +21,9 @@
 
 ###
 
-<div align="center">
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madutra&theme=bear" width=750  alt="stats graph"/>
+<div>
+  <a href="https://github.com/madutra">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madutra&layout=compact&langs_count=7&theme=dracula"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=madutra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
