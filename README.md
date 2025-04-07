@@ -22,20 +22,15 @@
 ###
 
 <div align="center">
+  
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madutra&theme=bear" width=750  alt="stats graph"/>
-
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=madutra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ###
 
 <h2 align="center">Techs I Use</h2>
 <div align="center">
-
-  ![sql](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-  ![postgresql](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
-  ![mariadb](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)
-  ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-  ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
   
   ![reactjs](https://img.shields.io/badge/React.JS-0?style=flat&logo=react&logoColor=rgb(a%2Ca%2Ca)&labelColor=rgb(a%2Ca%2Ca)&color=rgb(0%2C0%2C0))
   ![nextjs](https://img.shields.io/badge/Next.JS-0?style=flat&logo=nextdotjs&logoColor=rgb(a%2Ca%2Ca)&labelColor=rgb(0%2C0%2C0)&color=rgb(0%2C0%2C0))
@@ -50,8 +45,17 @@
   ![tailwindcss](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=Tailwind-CSS&logoColor=white)
   ![html5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
   ![css3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+  
   ###
-
+  
+  ![sql](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+  ![postgresql](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
+  ![mariadb](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)
+  ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+  ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+  
+  ###
+  
 </div>
 
 ###
