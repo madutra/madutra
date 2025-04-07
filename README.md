@@ -23,8 +23,8 @@
 
 <div>
   <a href="https://github.com/madutra">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madutra&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=madutra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  [![madutraStats](https://github-readme-stats.vercel.app/api?username=madutra\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+
 </div>
 
 ###
