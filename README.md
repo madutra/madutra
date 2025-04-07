@@ -1,6 +1,6 @@
 ###
 
-https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Software%20Engineer&reversal=true&textBg=false&animation=fadeIn&fontSize=50&fontAlignY=35&strokeWidth=1&stroke=aaa&descSize=0&descAlignY=50&fontColor=000
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header](https://capsule-render.vercel.app/api?type=waving&height=200&color=a0a0a0&text=Software%20Engineer&reversal=true&textBg=false&animation=fadeIn&fontSize=50&fontAlignY=35&strokeWidth=1&stroke=aaa&descSize=0&descAlignY=50&fontColor=000)"/>
 
 # Hey, I'm Matheus Andrade Dutra! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
