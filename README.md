@@ -1,4 +1,4 @@
-## Hi there 👋
+[## Hi there 👋
 
 <!--
 **madutra/madutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Software%20Engineer&reversal=true&textBg=false&animation=fadeIn&fontSize=50&fontAlignY=35&strokeWidth=1&stroke=aaa&descSize=0&descAlignY=50&fontColor=000)
