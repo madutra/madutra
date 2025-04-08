@@ -10,10 +10,10 @@
 
 ###
 
-💻 I'm a full stack developer with a strong focus on backend, experienced in Node.js, PHP, and React Native.
-🚀 I'm currently diving deeper into system architecture, messaging patterns, and cloud technologies — especially AWS — as part of my ongoing growth.
-🔍 I'm always learning and exploring best practices like DDD, BDD, and hexagonal architecture, aiming to bring these concepts into real-world projects.
-🤝 I enjoy sharing knowledge and collaborating on challenging projects that push me out of my comfort zone.
+💻 I'm a full stack developer with a strong focus on backend, experienced in Node.js, PHP, and React Native. #
+🚀 I'm currently diving deeper into system architecture, messaging patterns, and cloud technologies — especially AWS — as part of my ongoing growth. # 
+🔍 I'm always learning and exploring best practices like DDD, BDD, and hexagonal architecture, aiming to bring these concepts into real-world projects. #
+🤝 I enjoy sharing knowledge and collaborating on challenging projects that push me out of my comfort zone. #
 
 ###
 
